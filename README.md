@@ -3,9 +3,9 @@
 ### Team Size : 4
 ---
 ### 👨‍💻 Team Members
-Team Leader : Mallem Uday Sagar 
+Team Leader : Fayaz Shaik
 
-Team member : Fayaz Shaik
+Team member : Mallem Uday Sagar
 
 Team member : Vadlamudi Karthik
 
