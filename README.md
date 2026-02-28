@@ -1,4 +1,3 @@
-ch
 ## 🧠 Team ID : LTVIP2026TMIDS79595
 
 ### Team Size : 4
