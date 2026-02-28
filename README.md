@@ -1,12 +1,12 @@
-
+ch
 ## 🧠 Team ID : LTVIP2026TMIDS79595
 
 ### Team Size : 4
 ---
 ### 👨‍💻 Team Members
-Team Leader : Fayaz Shaik
+Team Leader : Mallem Uday Sagar 
 
-Team member : Mallem Uday Sagar
+Team member : Fayaz Shaik
 
 Team member : Vadlamudi Karthik
 
